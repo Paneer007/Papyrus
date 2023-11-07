@@ -4,11 +4,11 @@ import NavBar from "../NavBar/NavBar";
 
 const AskQ=()=>
 {
-    return(
-        <>
-            <NavBar/>
-            <Question/>
-        </>
-    );
-}
+	return(
+		<>
+			<NavBar/>
+			<Question/>
+		</>
+	);
+};
 export default AskQ;
